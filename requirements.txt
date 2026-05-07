@@ -1,0 +1,17 @@
+# Data processing and imaging
+pandas==2.2.3
+pillow==11.1.0
+matplotlib==3.9.2
+
+# Transformers and LLMs
+transformers==4.38.2
+
+# Deep Learning Frameworks (GPU enabled)
+tensorflow
+torch 
+torchvision 
+torchaudio
+
+# Jupyter support for Docker/VS Code
+ipykernel
+jupyterlab
