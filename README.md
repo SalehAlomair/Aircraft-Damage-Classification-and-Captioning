@@ -146,7 +146,7 @@ aircraft_damage_dataset_v1/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/aircraft-damage-pipeline.git
+git clone https://github.com/SalehAlomair/aircraft-damage-pipeline.git
 cd aircraft-damage-pipeline
 
 python -m venv .venv
